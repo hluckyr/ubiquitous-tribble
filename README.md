@@ -17,6 +17,7 @@ api
 
 ## URL: https://github.com/hluckyr/ubiquitous-tribble
 ## Screenshot:
+<img width="1470" alt="Screenshot 2023-11-04 at 4 49 55 PM" src="https://github.com/hluckyr/ubiquitous-tribble/assets/137447730/52d20b7b-688e-4875-a0de-3b54c9815d27">
 
 
 background image:
